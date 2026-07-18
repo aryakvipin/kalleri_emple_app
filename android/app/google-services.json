@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1015422183731",
+    "firebase_url": "https://kalleritemple-78c37-default-rtdb.firebaseio.com",
+    "project_id": "kalleritemple-78c37",
+    "storage_bucket": "kalleritemple-78c37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015422183731:android:27d986571e568590503646",
+        "android_client_info": {
+          "package_name": "com.appletlogic.kalleri_emple_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCApp8WtUfRPkRKEOf9-h_xr7mObk1ypO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
